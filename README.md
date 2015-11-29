@@ -1,2 +1,0 @@
-# jquary_tutorial
-Jquery
